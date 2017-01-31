@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sdr1kUsb", "Sdr1kUsb.vcproj", "{D5E179FE-42F6-4CA6-A08B-0A13A771B423}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D5E179FE-42F6-4CA6-A08B-0A13A771B423}.Debug.ActiveCfg = Debug|Win32
+		{D5E179FE-42F6-4CA6-A08B-0A13A771B423}.Debug.Build.0 = Debug|Win32
+		{D5E179FE-42F6-4CA6-A08B-0A13A771B423}.Release.ActiveCfg = Release|Win32
+		{D5E179FE-42F6-4CA6-A08B-0A13A771B423}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
